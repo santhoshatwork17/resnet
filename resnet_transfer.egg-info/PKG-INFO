@@ -1,0 +1,43 @@
+Metadata-Version: 2.2
+Name: resnet_transfer
+Version: 0.1
+Summary: A simple ResNet50 transfer learning package for image classification.
+Home-page: https://github.com/santhosh1705kumar/resnet_transfer
+Author: Santhoshkumar
+Author-email: santhoshatwork17@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: tensorflow
+Requires-Dist: numpy
+Requires-Dist: joblib
+Requires-Dist: Pillow
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# resnet_transfer
+
+A simple Python package for transfer learning using ResNet50. This package allows users to train a deep learning model on a custom dataset and use it for image classification.
+
+## Features
+- Uses **ResNet50** as a base model for **transfer learning**.
+- Allows training on a **custom dataset**.
+- Provides an easy-to-use **image prediction function**.
+- Supports **command-line execution**.
+
+## Installation
+You can install the package from PyPI using:
+```bash
+pip install resnet_transfer

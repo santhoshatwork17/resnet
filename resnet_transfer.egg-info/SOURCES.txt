@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+resnet_transfer/__init__.py
+resnet_transfer/predict.py
+resnet_transfer/train.py
+resnet_transfer.egg-info/PKG-INFO
+resnet_transfer.egg-info/SOURCES.txt
+resnet_transfer.egg-info/dependency_links.txt
+resnet_transfer.egg-info/entry_points.txt
+resnet_transfer.egg-info/requires.txt
+resnet_transfer.egg-info/top_level.txt
